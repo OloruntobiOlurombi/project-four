@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/OloruntobiOlurombi/project-four/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/OloruntobiOlurombi/project-four/tree/main)
 
 ## Project Overview
 
@@ -15,8 +15,7 @@ Your project goal is to operationalize this working, machine learning microservi
 * Improve the log statements in the source code for this application
 * Configure Kubernetes and create a Kubernetes cluster
 * Deploy a container using Kubernetes and make a prediction
-* Upload a complete Github repo with CircleCI to indicate that your code has been tested
-
+* Upload a complete Github repo with CircleCI to indicate that your code has been tested 
 You can find a detailed [project rubric, here](https://review.udacity.com/#!/rubrics/2576/view).
 
 **The final implementation of the project will showcase your abilities to operationalize production microservices.**
